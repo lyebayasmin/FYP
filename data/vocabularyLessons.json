@@ -1,0 +1,4526 @@
+{
+  "spanish": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          {
+            "word": "hola",
+            "translation": "hello"
+          },
+          {
+            "word": "adiós",
+            "translation": "goodbye"
+          },
+          {
+            "word": "gracias",
+            "translation": "thank you"
+          },
+          {
+            "word": "por favor",
+            "translation": "please"
+          },
+          {
+            "word": "sí",
+            "translation": "yes"
+          },
+          {
+            "word": "no",
+            "translation": "no"
+          },
+          {
+            "word": "buenos días",
+            "translation": "good morning"
+          },
+          {
+            "word": "buenas noches",
+            "translation": "good night"
+          },
+          {
+            "word": "amigo",
+            "translation": "friend"
+          },
+          {
+            "word": "familia",
+            "translation": "family"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          {
+            "word": "casa",
+            "translation": "house"
+          },
+          {
+            "word": "agua",
+            "translation": "water"
+          },
+          {
+            "word": "comida",
+            "translation": "food"
+          },
+          {
+            "word": "tiempo",
+            "translation": "time"
+          },
+          {
+            "word": "día",
+            "translation": "day"
+          },
+          {
+            "word": "noche",
+            "translation": "night"
+          },
+          {
+            "word": "sol",
+            "translation": "sun"
+          },
+          {
+            "word": "luna",
+            "translation": "moon"
+          },
+          {
+            "word": "libro",
+            "translation": "book"
+          },
+          {
+            "word": "escuela",
+            "translation": "school"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          {
+            "word": "trabajo",
+            "translation": "work"
+          },
+          {
+            "word": "dinero",
+            "translation": "money"
+          },
+          {
+            "word": "ciudad",
+            "translation": "city"
+          },
+          {
+            "word": "país",
+            "translation": "country"
+          },
+          {
+            "word": "mundo",
+            "translation": "world"
+          },
+          {
+            "word": "vida",
+            "translation": "life"
+          },
+          {
+            "word": "amor",
+            "translation": "love"
+          },
+          {
+            "word": "corazón",
+            "translation": "heart"
+          },
+          {
+            "word": "feliz",
+            "translation": "happy"
+          },
+          {
+            "word": "triste",
+            "translation": "sad"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 4,
+        "title": "Colors & Numbers",
+        "words": [
+          {
+            "word": "rojo",
+            "translation": "red"
+          },
+          {
+            "word": "azul",
+            "translation": "blue"
+          },
+          {
+            "word": "verde",
+            "translation": "green"
+          },
+          {
+            "word": "amarillo",
+            "translation": "yellow"
+          },
+          {
+            "word": "blanco",
+            "translation": "white"
+          },
+          {
+            "word": "negro",
+            "translation": "black"
+          },
+          {
+            "word": "uno",
+            "translation": "one"
+          },
+          {
+            "word": "dos",
+            "translation": "two"
+          },
+          {
+            "word": "tres",
+            "translation": "three"
+          },
+          {
+            "word": "cuatro",
+            "translation": "four"
+          }
+        ],
+        "category": "numbers"
+      },
+      {
+        "id": 5,
+        "title": "Actions",
+        "words": [
+          {
+            "word": "comer",
+            "translation": "to eat"
+          },
+          {
+            "word": "beber",
+            "translation": "to drink"
+          },
+          {
+            "word": "dormir",
+            "translation": "to sleep"
+          },
+          {
+            "word": "hablar",
+            "translation": "to speak"
+          },
+          {
+            "word": "caminar",
+            "translation": "to walk"
+          },
+          {
+            "word": "correr",
+            "translation": "to run"
+          },
+          {
+            "word": "escribir",
+            "translation": "to write"
+          },
+          {
+            "word": "leer",
+            "translation": "to read"
+          },
+          {
+            "word": "escuchar",
+            "translation": "to listen"
+          },
+          {
+            "word": "ver",
+            "translation": "to see"
+          }
+        ],
+        "category": "verbs"
+      },
+      {
+        "id": 6,
+        "title": "Places",
+        "words": [
+          {
+            "word": "tienda",
+            "translation": "store"
+          },
+          {
+            "word": "hospital",
+            "translation": "hospital"
+          },
+          {
+            "word": "aeropuerto",
+            "translation": "airport"
+          },
+          {
+            "word": "restaurante",
+            "translation": "restaurant"
+          },
+          {
+            "word": "parque",
+            "translation": "park"
+          },
+          {
+            "word": "playa",
+            "translation": "beach"
+          },
+          {
+            "word": "montaña",
+            "translation": "mountain"
+          },
+          {
+            "word": "río",
+            "translation": "river"
+          },
+          {
+            "word": "calle",
+            "translation": "street"
+          },
+          {
+            "word": "puente",
+            "translation": "bridge"
+          }
+        ],
+        "category": "places"
+      },
+      {
+        "id": 7,
+        "title": "Food & Drinks",
+        "words": [
+          {
+            "word": "pan",
+            "translation": "bread"
+          },
+          {
+            "word": "leche",
+            "translation": "milk"
+          },
+          {
+            "word": "carne",
+            "translation": "meat"
+          },
+          {
+            "word": "pescado",
+            "translation": "fish"
+          },
+          {
+            "word": "fruta",
+            "translation": "fruit"
+          },
+          {
+            "word": "verdura",
+            "translation": "vegetable"
+          },
+          {
+            "word": "arroz",
+            "translation": "rice"
+          },
+          {
+            "word": "café",
+            "translation": "coffee"
+          },
+          {
+            "word": "té",
+            "translation": "tea"
+          },
+          {
+            "word": "jugo",
+            "translation": "juice"
+          }
+        ],
+        "category": "food"
+      },
+      {
+        "id": 8,
+        "title": "Family",
+        "words": [
+          {
+            "word": "madre",
+            "translation": "mother"
+          },
+          {
+            "word": "padre",
+            "translation": "father"
+          },
+          {
+            "word": "hermano",
+            "translation": "brother"
+          },
+          {
+            "word": "hermana",
+            "translation": "sister"
+          },
+          {
+            "word": "hijo",
+            "translation": "son"
+          },
+          {
+            "word": "hija",
+            "translation": "daughter"
+          },
+          {
+            "word": "abuelo",
+            "translation": "grandfather"
+          },
+          {
+            "word": "abuela",
+            "translation": "grandmother"
+          },
+          {
+            "word": "tío",
+            "translation": "uncle"
+          },
+          {
+            "word": "tía",
+            "translation": "aunt"
+          }
+        ],
+        "category": "family"
+      },
+      {
+        "id": 9,
+        "title": "Weather & Nature",
+        "words": [
+          {
+            "word": "lluvia",
+            "translation": "rain"
+          },
+          {
+            "word": "nieve",
+            "translation": "snow"
+          },
+          {
+            "word": "viento",
+            "translation": "wind"
+          },
+          {
+            "word": "nube",
+            "translation": "cloud"
+          },
+          {
+            "word": "estrella",
+            "translation": "star"
+          },
+          {
+            "word": "árbol",
+            "translation": "tree"
+          },
+          {
+            "word": "flor",
+            "translation": "flower"
+          },
+          {
+            "word": "mar",
+            "translation": "sea"
+          },
+          {
+            "word": "cielo",
+            "translation": "sky"
+          },
+          {
+            "word": "tierra",
+            "translation": "earth"
+          }
+        ],
+        "category": "nature"
+      },
+      {
+        "id": 10,
+        "title": "Body Parts",
+        "words": [
+          {
+            "word": "cabeza",
+            "translation": "head"
+          },
+          {
+            "word": "mano",
+            "translation": "hand"
+          },
+          {
+            "word": "pie",
+            "translation": "foot"
+          },
+          {
+            "word": "ojo",
+            "translation": "eye"
+          },
+          {
+            "word": "oreja",
+            "translation": "ear"
+          },
+          {
+            "word": "nariz",
+            "translation": "nose"
+          },
+          {
+            "word": "boca",
+            "translation": "mouth"
+          },
+          {
+            "word": "brazo",
+            "translation": "arm"
+          },
+          {
+            "word": "pierna",
+            "translation": "leg"
+          },
+          {
+            "word": "dedo",
+            "translation": "finger"
+          }
+        ],
+        "category": "body"
+      },
+      {
+        "id": 11,
+        "title": "More Numbers",
+        "category": "numbers",
+        "words": [
+          {
+            "word": "cinco",
+            "translation": "five"
+          },
+          {
+            "word": "seis",
+            "translation": "six"
+          },
+          {
+            "word": "siete",
+            "translation": "seven"
+          },
+          {
+            "word": "ocho",
+            "translation": "eight"
+          },
+          {
+            "word": "nueve",
+            "translation": "nine"
+          },
+          {
+            "word": "diez",
+            "translation": "ten"
+          },
+          {
+            "word": "once",
+            "translation": "eleven"
+          },
+          {
+            "word": "doce",
+            "translation": "twelve"
+          },
+          {
+            "word": "veinte",
+            "translation": "twenty"
+          },
+          {
+            "word": "cien",
+            "translation": "hundred"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Days of the Week",
+        "category": "time",
+        "words": [
+          {
+            "word": "lunes",
+            "translation": "Monday"
+          },
+          {
+            "word": "martes",
+            "translation": "Tuesday"
+          },
+          {
+            "word": "miércoles",
+            "translation": "Wednesday"
+          },
+          {
+            "word": "jueves",
+            "translation": "Thursday"
+          },
+          {
+            "word": "viernes",
+            "translation": "Friday"
+          },
+          {
+            "word": "sábado",
+            "translation": "Saturday"
+          },
+          {
+            "word": "domingo",
+            "translation": "Sunday"
+          },
+          {
+            "word": "hoy",
+            "translation": "today"
+          },
+          {
+            "word": "vacaciones",
+            "translation": "holiday"
+          },
+          {
+            "word": "calendario",
+            "translation": "calendar"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Time",
+        "category": "time",
+        "words": [
+          {
+            "word": "semana",
+            "translation": "week"
+          },
+          {
+            "word": "mes",
+            "translation": "month"
+          },
+          {
+            "word": "año",
+            "translation": "year"
+          },
+          {
+            "word": "mañana",
+            "translation": "morning"
+          },
+          {
+            "word": "tarde",
+            "translation": "afternoon"
+          },
+          {
+            "word": "atardecer",
+            "translation": "evening"
+          },
+          {
+            "word": "ahora",
+            "translation": "now"
+          },
+          {
+            "word": "pronto",
+            "translation": "soon"
+          },
+          {
+            "word": "siempre",
+            "translation": "always"
+          },
+          {
+            "word": "nunca",
+            "translation": "never"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Clothes",
+        "category": "clothes",
+        "words": [
+          {
+            "word": "camisa",
+            "translation": "shirt"
+          },
+          {
+            "word": "pantalones",
+            "translation": "trousers"
+          },
+          {
+            "word": "zapatos",
+            "translation": "shoes"
+          },
+          {
+            "word": "sombrero",
+            "translation": "hat"
+          },
+          {
+            "word": "vestido",
+            "translation": "dress"
+          },
+          {
+            "word": "chaqueta",
+            "translation": "jacket"
+          },
+          {
+            "word": "calcetines",
+            "translation": "socks"
+          },
+          {
+            "word": "bufanda",
+            "translation": "scarf"
+          },
+          {
+            "word": "gafas",
+            "translation": "glasses"
+          },
+          {
+            "word": "bolso",
+            "translation": "bag"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Animals",
+        "category": "nature",
+        "words": [
+          {
+            "word": "perro",
+            "translation": "dog"
+          },
+          {
+            "word": "gato",
+            "translation": "cat"
+          },
+          {
+            "word": "pájaro",
+            "translation": "bird"
+          },
+          {
+            "word": "caballo",
+            "translation": "horse"
+          },
+          {
+            "word": "vaca",
+            "translation": "cow"
+          },
+          {
+            "word": "oveja",
+            "translation": "sheep"
+          },
+          {
+            "word": "león",
+            "translation": "lion"
+          },
+          {
+            "word": "elefante",
+            "translation": "elephant"
+          },
+          {
+            "word": "conejo",
+            "translation": "rabbit"
+          },
+          {
+            "word": "gallina",
+            "translation": "chicken"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Fruits",
+        "category": "food",
+        "words": [
+          {
+            "word": "manzana",
+            "translation": "apple"
+          },
+          {
+            "word": "plátano",
+            "translation": "banana"
+          },
+          {
+            "word": "naranja",
+            "translation": "orange"
+          },
+          {
+            "word": "uvas",
+            "translation": "grapes"
+          },
+          {
+            "word": "mango",
+            "translation": "mango"
+          },
+          {
+            "word": "limón",
+            "translation": "lemon"
+          },
+          {
+            "word": "fresa",
+            "translation": "strawberry"
+          },
+          {
+            "word": "sandía",
+            "translation": "watermelon"
+          },
+          {
+            "word": "melocotón",
+            "translation": "peach"
+          },
+          {
+            "word": "pera",
+            "translation": "pear"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Kitchen & Ingredients",
+        "category": "food",
+        "words": [
+          {
+            "word": "patata",
+            "translation": "potato"
+          },
+          {
+            "word": "cebolla",
+            "translation": "onion"
+          },
+          {
+            "word": "tomate",
+            "translation": "tomato"
+          },
+          {
+            "word": "zanahoria",
+            "translation": "carrot"
+          },
+          {
+            "word": "sal",
+            "translation": "salt"
+          },
+          {
+            "word": "azúcar",
+            "translation": "sugar"
+          },
+          {
+            "word": "huevo",
+            "translation": "egg"
+          },
+          {
+            "word": "queso",
+            "translation": "cheese"
+          },
+          {
+            "word": "mantequilla",
+            "translation": "butter"
+          },
+          {
+            "word": "aceite",
+            "translation": "oil"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Travel",
+        "category": "travel",
+        "words": [
+          {
+            "word": "billete",
+            "translation": "ticket"
+          },
+          {
+            "word": "pasaporte",
+            "translation": "passport"
+          },
+          {
+            "word": "autobús",
+            "translation": "bus"
+          },
+          {
+            "word": "tren",
+            "translation": "train"
+          },
+          {
+            "word": "taxi",
+            "translation": "taxi"
+          },
+          {
+            "word": "hotel",
+            "translation": "hotel"
+          },
+          {
+            "word": "mapa",
+            "translation": "map"
+          },
+          {
+            "word": "maleta",
+            "translation": "suitcase"
+          },
+          {
+            "word": "coche",
+            "translation": "car"
+          },
+          {
+            "word": "avión",
+            "translation": "plane"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Directions",
+        "category": "travel",
+        "words": [
+          {
+            "word": "izquierda",
+            "translation": "left"
+          },
+          {
+            "word": "derecha",
+            "translation": "right"
+          },
+          {
+            "word": "recto",
+            "translation": "straight"
+          },
+          {
+            "word": "cerca",
+            "translation": "near"
+          },
+          {
+            "word": "lejos",
+            "translation": "far"
+          },
+          {
+            "word": "aquí",
+            "translation": "here"
+          },
+          {
+            "word": "allí",
+            "translation": "there"
+          },
+          {
+            "word": "norte",
+            "translation": "north"
+          },
+          {
+            "word": "sur",
+            "translation": "south"
+          },
+          {
+            "word": "este",
+            "translation": "east"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Health & Emergency",
+        "category": "emergency",
+        "words": [
+          {
+            "word": "médico",
+            "translation": "doctor"
+          },
+          {
+            "word": "medicina",
+            "translation": "medicine"
+          },
+          {
+            "word": "dolor",
+            "translation": "pain"
+          },
+          {
+            "word": "fiebre",
+            "translation": "fever"
+          },
+          {
+            "word": "policía",
+            "translation": "police"
+          },
+          {
+            "word": "fuego",
+            "translation": "fire"
+          },
+          {
+            "word": "ayuda",
+            "translation": "help"
+          },
+          {
+            "word": "peligro",
+            "translation": "danger"
+          },
+          {
+            "word": "ambulancia",
+            "translation": "ambulance"
+          },
+          {
+            "word": "enfermo",
+            "translation": "sick"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Shopping",
+        "category": "shopping",
+        "words": [
+          {
+            "word": "precio",
+            "translation": "price"
+          },
+          {
+            "word": "barato",
+            "translation": "cheap"
+          },
+          {
+            "word": "caro",
+            "translation": "expensive"
+          },
+          {
+            "word": "tienda",
+            "translation": "shop"
+          },
+          {
+            "word": "mercado",
+            "translation": "market"
+          },
+          {
+            "word": "comprar",
+            "translation": "to buy"
+          },
+          {
+            "word": "vender",
+            "translation": "to sell"
+          },
+          {
+            "word": "efectivo",
+            "translation": "cash"
+          },
+          {
+            "word": "talla",
+            "translation": "size"
+          },
+          {
+            "word": "descuento",
+            "translation": "discount"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Home & Furniture",
+        "category": "home",
+        "words": [
+          {
+            "word": "habitación",
+            "translation": "room"
+          },
+          {
+            "word": "puerta",
+            "translation": "door"
+          },
+          {
+            "word": "ventana",
+            "translation": "window"
+          },
+          {
+            "word": "mesa",
+            "translation": "table"
+          },
+          {
+            "word": "silla",
+            "translation": "chair"
+          },
+          {
+            "word": "cama",
+            "translation": "bed"
+          },
+          {
+            "word": "cocina",
+            "translation": "kitchen"
+          },
+          {
+            "word": "baño",
+            "translation": "bathroom"
+          },
+          {
+            "word": "llave",
+            "translation": "key"
+          },
+          {
+            "word": "lámpara",
+            "translation": "lamp"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Describing Things 1",
+        "category": "adjectives",
+        "words": [
+          {
+            "word": "grande",
+            "translation": "big"
+          },
+          {
+            "word": "pequeño",
+            "translation": "small"
+          },
+          {
+            "word": "nuevo",
+            "translation": "new"
+          },
+          {
+            "word": "viejo",
+            "translation": "old"
+          },
+          {
+            "word": "bueno",
+            "translation": "good"
+          },
+          {
+            "word": "malo",
+            "translation": "bad"
+          },
+          {
+            "word": "caliente",
+            "translation": "hot"
+          },
+          {
+            "word": "frío",
+            "translation": "cold"
+          },
+          {
+            "word": "rápido",
+            "translation": "fast"
+          },
+          {
+            "word": "lento",
+            "translation": "slow"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Describing Things 2",
+        "category": "adjectives",
+        "words": [
+          {
+            "word": "fácil",
+            "translation": "easy"
+          },
+          {
+            "word": "difícil",
+            "translation": "difficult"
+          },
+          {
+            "word": "hermoso",
+            "translation": "beautiful"
+          },
+          {
+            "word": "feo",
+            "translation": "ugly"
+          },
+          {
+            "word": "limpio",
+            "translation": "clean"
+          },
+          {
+            "word": "sucio",
+            "translation": "dirty"
+          },
+          {
+            "word": "lleno",
+            "translation": "full"
+          },
+          {
+            "word": "vacío",
+            "translation": "empty"
+          },
+          {
+            "word": "pesado",
+            "translation": "heavy"
+          },
+          {
+            "word": "ligero",
+            "translation": "light (not heavy)"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Feelings",
+        "category": "feelings",
+        "words": [
+          {
+            "word": "enojado",
+            "translation": "angry"
+          },
+          {
+            "word": "cansado",
+            "translation": "tired"
+          },
+          {
+            "word": "hambriento",
+            "translation": "hungry"
+          },
+          {
+            "word": "sediento",
+            "translation": "thirsty"
+          },
+          {
+            "word": "asustado",
+            "translation": "afraid"
+          },
+          {
+            "word": "sorprendido",
+            "translation": "surprised"
+          },
+          {
+            "word": "tranquilo",
+            "translation": "calm"
+          },
+          {
+            "word": "aburrido",
+            "translation": "bored"
+          },
+          {
+            "word": "emocionado",
+            "translation": "excited"
+          },
+          {
+            "word": "preocupado",
+            "translation": "worried"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Useful Verbs 1",
+        "category": "verbs",
+        "words": [
+          {
+            "word": "ir",
+            "translation": "to go"
+          },
+          {
+            "word": "venir",
+            "translation": "to come"
+          },
+          {
+            "word": "querer",
+            "translation": "to want"
+          },
+          {
+            "word": "tener",
+            "translation": "to have"
+          },
+          {
+            "word": "saber",
+            "translation": "to know"
+          },
+          {
+            "word": "dar",
+            "translation": "to give"
+          },
+          {
+            "word": "tomar",
+            "translation": "to take"
+          },
+          {
+            "word": "abrir",
+            "translation": "to open"
+          },
+          {
+            "word": "cerrar",
+            "translation": "to close"
+          },
+          {
+            "word": "encontrar",
+            "translation": "to find"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Useful Verbs 2",
+        "category": "verbs",
+        "words": [
+          {
+            "word": "trabajar",
+            "translation": "to work"
+          },
+          {
+            "word": "aprender",
+            "translation": "to learn"
+          },
+          {
+            "word": "enseñar",
+            "translation": "to teach"
+          },
+          {
+            "word": "jugar",
+            "translation": "to play"
+          },
+          {
+            "word": "esperar",
+            "translation": "to wait"
+          },
+          {
+            "word": "preguntar",
+            "translation": "to ask"
+          },
+          {
+            "word": "responder",
+            "translation": "to answer"
+          },
+          {
+            "word": "ayudar",
+            "translation": "to help"
+          },
+          {
+            "word": "vivir",
+            "translation": "to live"
+          },
+          {
+            "word": "amar",
+            "translation": "to love"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Question Words",
+        "category": "grammar",
+        "words": [
+          {
+            "word": "quién",
+            "translation": "who"
+          },
+          {
+            "word": "qué",
+            "translation": "what"
+          },
+          {
+            "word": "dónde",
+            "translation": "where"
+          },
+          {
+            "word": "cuándo",
+            "translation": "when"
+          },
+          {
+            "word": "por qué",
+            "translation": "why"
+          },
+          {
+            "word": "cómo",
+            "translation": "how"
+          },
+          {
+            "word": "cuál",
+            "translation": "which"
+          },
+          {
+            "word": "cuánto",
+            "translation": "how much"
+          },
+          {
+            "word": "yo",
+            "translation": "I"
+          },
+          {
+            "word": "tú",
+            "translation": "you"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "title": "School & Study",
+        "category": "school",
+        "words": [
+          {
+            "word": "profesor",
+            "translation": "teacher"
+          },
+          {
+            "word": "estudiante",
+            "translation": "student"
+          },
+          {
+            "word": "lección",
+            "translation": "lesson"
+          },
+          {
+            "word": "idioma",
+            "translation": "language"
+          },
+          {
+            "word": "palabra",
+            "translation": "word"
+          },
+          {
+            "word": "pregunta",
+            "translation": "question"
+          },
+          {
+            "word": "respuesta",
+            "translation": "answer"
+          },
+          {
+            "word": "bolígrafo",
+            "translation": "pen"
+          },
+          {
+            "word": "examen",
+            "translation": "exam"
+          },
+          {
+            "word": "deberes",
+            "translation": "homework"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "title": "Technology",
+        "category": "technology",
+        "words": [
+          {
+            "word": "teléfono",
+            "translation": "phone"
+          },
+          {
+            "word": "computadora",
+            "translation": "computer"
+          },
+          {
+            "word": "internet",
+            "translation": "internet"
+          },
+          {
+            "word": "mensaje",
+            "translation": "message"
+          },
+          {
+            "word": "correo electrónico",
+            "translation": "email"
+          },
+          {
+            "word": "contraseña",
+            "translation": "password"
+          },
+          {
+            "word": "pantalla",
+            "translation": "screen"
+          },
+          {
+            "word": "cámara",
+            "translation": "camera"
+          },
+          {
+            "word": "música",
+            "translation": "music"
+          },
+          {
+            "word": "foto",
+            "translation": "photo"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "title": "Jobs",
+        "category": "jobs",
+        "words": [
+          {
+            "word": "ingeniero",
+            "translation": "engineer"
+          },
+          {
+            "word": "enfermera",
+            "translation": "nurse"
+          },
+          {
+            "word": "conductor",
+            "translation": "driver"
+          },
+          {
+            "word": "agricultor",
+            "translation": "farmer"
+          },
+          {
+            "word": "abogado",
+            "translation": "lawyer"
+          },
+          {
+            "word": "cocinero",
+            "translation": "cook"
+          },
+          {
+            "word": "artista",
+            "translation": "artist"
+          },
+          {
+            "word": "piloto",
+            "translation": "pilot"
+          },
+          {
+            "word": "sastre",
+            "translation": "tailor"
+          },
+          {
+            "word": "tendero",
+            "translation": "shopkeeper"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Nature & Land",
+        "category": "nature",
+        "words": [
+          {
+            "word": "bosque",
+            "translation": "forest"
+          },
+          {
+            "word": "desierto",
+            "translation": "desert"
+          },
+          {
+            "word": "lago",
+            "translation": "lake"
+          },
+          {
+            "word": "isla",
+            "translation": "island"
+          },
+          {
+            "word": "jardín",
+            "translation": "garden"
+          },
+          {
+            "word": "pueblo",
+            "translation": "village"
+          },
+          {
+            "word": "granja",
+            "translation": "farm"
+          },
+          {
+            "word": "campo",
+            "translation": "field"
+          },
+          {
+            "word": "colina",
+            "translation": "hill"
+          },
+          {
+            "word": "arena",
+            "translation": "sand"
+          }
+        ]
+      }
+    ]
+  },
+  "german": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          {
+            "word": "Hallo",
+            "translation": "hello"
+          },
+          {
+            "word": "Tschüss",
+            "translation": "goodbye"
+          },
+          {
+            "word": "Danke",
+            "translation": "thank you"
+          },
+          {
+            "word": "Bitte",
+            "translation": "please"
+          },
+          {
+            "word": "Ja",
+            "translation": "yes"
+          },
+          {
+            "word": "Nein",
+            "translation": "no"
+          },
+          {
+            "word": "Guten Morgen",
+            "translation": "good morning"
+          },
+          {
+            "word": "Gute Nacht",
+            "translation": "good night"
+          },
+          {
+            "word": "Freund",
+            "translation": "friend"
+          },
+          {
+            "word": "Familie",
+            "translation": "family"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          {
+            "word": "Haus",
+            "translation": "house"
+          },
+          {
+            "word": "Wasser",
+            "translation": "water"
+          },
+          {
+            "word": "Essen",
+            "translation": "food"
+          },
+          {
+            "word": "Zeit",
+            "translation": "time"
+          },
+          {
+            "word": "Tag",
+            "translation": "day"
+          },
+          {
+            "word": "Nacht",
+            "translation": "night"
+          },
+          {
+            "word": "Sonne",
+            "translation": "sun"
+          },
+          {
+            "word": "Mond",
+            "translation": "moon"
+          },
+          {
+            "word": "Buch",
+            "translation": "book"
+          },
+          {
+            "word": "Schule",
+            "translation": "school"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          {
+            "word": "Arbeit",
+            "translation": "work"
+          },
+          {
+            "word": "Geld",
+            "translation": "money"
+          },
+          {
+            "word": "Stadt",
+            "translation": "city"
+          },
+          {
+            "word": "Land",
+            "translation": "country"
+          },
+          {
+            "word": "Welt",
+            "translation": "world"
+          },
+          {
+            "word": "Leben",
+            "translation": "life"
+          },
+          {
+            "word": "Liebe",
+            "translation": "love"
+          },
+          {
+            "word": "Herz",
+            "translation": "heart"
+          },
+          {
+            "word": "glücklich",
+            "translation": "happy"
+          },
+          {
+            "word": "traurig",
+            "translation": "sad"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 4,
+        "title": "Colors & Numbers",
+        "words": [
+          {
+            "word": "rot",
+            "translation": "red"
+          },
+          {
+            "word": "blau",
+            "translation": "blue"
+          },
+          {
+            "word": "grün",
+            "translation": "green"
+          },
+          {
+            "word": "gelb",
+            "translation": "yellow"
+          },
+          {
+            "word": "weiß",
+            "translation": "white"
+          },
+          {
+            "word": "schwarz",
+            "translation": "black"
+          },
+          {
+            "word": "eins",
+            "translation": "one"
+          },
+          {
+            "word": "zwei",
+            "translation": "two"
+          },
+          {
+            "word": "drei",
+            "translation": "three"
+          },
+          {
+            "word": "vier",
+            "translation": "four"
+          }
+        ],
+        "category": "numbers"
+      },
+      {
+        "id": 5,
+        "title": "Actions",
+        "words": [
+          {
+            "word": "essen",
+            "translation": "to eat"
+          },
+          {
+            "word": "trinken",
+            "translation": "to drink"
+          },
+          {
+            "word": "schlafen",
+            "translation": "to sleep"
+          },
+          {
+            "word": "sprechen",
+            "translation": "to speak"
+          },
+          {
+            "word": "gehen",
+            "translation": "to walk"
+          },
+          {
+            "word": "laufen",
+            "translation": "to run"
+          },
+          {
+            "word": "schreiben",
+            "translation": "to write"
+          },
+          {
+            "word": "lesen",
+            "translation": "to read"
+          },
+          {
+            "word": "hören",
+            "translation": "to listen"
+          },
+          {
+            "word": "sehen",
+            "translation": "to see"
+          }
+        ],
+        "category": "verbs"
+      },
+      {
+        "id": 6,
+        "title": "Places",
+        "words": [
+          {
+            "word": "Laden",
+            "translation": "store"
+          },
+          {
+            "word": "Krankenhaus",
+            "translation": "hospital"
+          },
+          {
+            "word": "Flughafen",
+            "translation": "airport"
+          },
+          {
+            "word": "Restaurant",
+            "translation": "restaurant"
+          },
+          {
+            "word": "Park",
+            "translation": "park"
+          },
+          {
+            "word": "Strand",
+            "translation": "beach"
+          },
+          {
+            "word": "Berg",
+            "translation": "mountain"
+          },
+          {
+            "word": "Fluss",
+            "translation": "river"
+          },
+          {
+            "word": "Straße",
+            "translation": "street"
+          },
+          {
+            "word": "Brücke",
+            "translation": "bridge"
+          }
+        ],
+        "category": "places"
+      },
+      {
+        "id": 7,
+        "title": "Food & Drinks",
+        "words": [
+          {
+            "word": "Brot",
+            "translation": "bread"
+          },
+          {
+            "word": "Milch",
+            "translation": "milk"
+          },
+          {
+            "word": "Fleisch",
+            "translation": "meat"
+          },
+          {
+            "word": "Fisch",
+            "translation": "fish"
+          },
+          {
+            "word": "Obst",
+            "translation": "fruit"
+          },
+          {
+            "word": "Gemüse",
+            "translation": "vegetable"
+          },
+          {
+            "word": "Reis",
+            "translation": "rice"
+          },
+          {
+            "word": "Kaffee",
+            "translation": "coffee"
+          },
+          {
+            "word": "Tee",
+            "translation": "tea"
+          },
+          {
+            "word": "Saft",
+            "translation": "juice"
+          }
+        ],
+        "category": "food"
+      },
+      {
+        "id": 8,
+        "title": "Family",
+        "words": [
+          {
+            "word": "Mutter",
+            "translation": "mother"
+          },
+          {
+            "word": "Vater",
+            "translation": "father"
+          },
+          {
+            "word": "Bruder",
+            "translation": "brother"
+          },
+          {
+            "word": "Schwester",
+            "translation": "sister"
+          },
+          {
+            "word": "Sohn",
+            "translation": "son"
+          },
+          {
+            "word": "Tochter",
+            "translation": "daughter"
+          },
+          {
+            "word": "Großvater",
+            "translation": "grandfather"
+          },
+          {
+            "word": "Großmutter",
+            "translation": "grandmother"
+          },
+          {
+            "word": "Onkel",
+            "translation": "uncle"
+          },
+          {
+            "word": "Tante",
+            "translation": "aunt"
+          }
+        ],
+        "category": "family"
+      },
+      {
+        "id": 9,
+        "title": "Weather & Nature",
+        "words": [
+          {
+            "word": "Regen",
+            "translation": "rain"
+          },
+          {
+            "word": "Schnee",
+            "translation": "snow"
+          },
+          {
+            "word": "Wind",
+            "translation": "wind"
+          },
+          {
+            "word": "Wolke",
+            "translation": "cloud"
+          },
+          {
+            "word": "Stern",
+            "translation": "star"
+          },
+          {
+            "word": "Baum",
+            "translation": "tree"
+          },
+          {
+            "word": "Blume",
+            "translation": "flower"
+          },
+          {
+            "word": "Meer",
+            "translation": "sea"
+          },
+          {
+            "word": "Himmel",
+            "translation": "sky"
+          },
+          {
+            "word": "Erde",
+            "translation": "earth"
+          }
+        ],
+        "category": "nature"
+      },
+      {
+        "id": 10,
+        "title": "Body Parts",
+        "words": [
+          {
+            "word": "Kopf",
+            "translation": "head"
+          },
+          {
+            "word": "Hand",
+            "translation": "hand"
+          },
+          {
+            "word": "Fuß",
+            "translation": "foot"
+          },
+          {
+            "word": "Auge",
+            "translation": "eye"
+          },
+          {
+            "word": "Ohr",
+            "translation": "ear"
+          },
+          {
+            "word": "Nase",
+            "translation": "nose"
+          },
+          {
+            "word": "Mund",
+            "translation": "mouth"
+          },
+          {
+            "word": "Arm",
+            "translation": "arm"
+          },
+          {
+            "word": "Bein",
+            "translation": "leg"
+          },
+          {
+            "word": "Finger",
+            "translation": "finger"
+          }
+        ],
+        "category": "body"
+      },
+      {
+        "id": 11,
+        "title": "More Numbers",
+        "category": "numbers",
+        "words": [
+          {
+            "word": "fünf",
+            "translation": "five"
+          },
+          {
+            "word": "sechs",
+            "translation": "six"
+          },
+          {
+            "word": "sieben",
+            "translation": "seven"
+          },
+          {
+            "word": "acht",
+            "translation": "eight"
+          },
+          {
+            "word": "neun",
+            "translation": "nine"
+          },
+          {
+            "word": "zehn",
+            "translation": "ten"
+          },
+          {
+            "word": "elf",
+            "translation": "eleven"
+          },
+          {
+            "word": "zwölf",
+            "translation": "twelve"
+          },
+          {
+            "word": "zwanzig",
+            "translation": "twenty"
+          },
+          {
+            "word": "hundert",
+            "translation": "hundred"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Days of the Week",
+        "category": "time",
+        "words": [
+          {
+            "word": "Montag",
+            "translation": "Monday"
+          },
+          {
+            "word": "Dienstag",
+            "translation": "Tuesday"
+          },
+          {
+            "word": "Mittwoch",
+            "translation": "Wednesday"
+          },
+          {
+            "word": "Donnerstag",
+            "translation": "Thursday"
+          },
+          {
+            "word": "Freitag",
+            "translation": "Friday"
+          },
+          {
+            "word": "Samstag",
+            "translation": "Saturday"
+          },
+          {
+            "word": "Sonntag",
+            "translation": "Sunday"
+          },
+          {
+            "word": "heute",
+            "translation": "today"
+          },
+          {
+            "word": "Urlaub",
+            "translation": "holiday"
+          },
+          {
+            "word": "Kalender",
+            "translation": "calendar"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Time",
+        "category": "time",
+        "words": [
+          {
+            "word": "Woche",
+            "translation": "week"
+          },
+          {
+            "word": "Monat",
+            "translation": "month"
+          },
+          {
+            "word": "Jahr",
+            "translation": "year"
+          },
+          {
+            "word": "Morgen",
+            "translation": "morning"
+          },
+          {
+            "word": "Nachmittag",
+            "translation": "afternoon"
+          },
+          {
+            "word": "Abend",
+            "translation": "evening"
+          },
+          {
+            "word": "jetzt",
+            "translation": "now"
+          },
+          {
+            "word": "bald",
+            "translation": "soon"
+          },
+          {
+            "word": "immer",
+            "translation": "always"
+          },
+          {
+            "word": "nie",
+            "translation": "never"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Clothes",
+        "category": "clothes",
+        "words": [
+          {
+            "word": "Hemd",
+            "translation": "shirt"
+          },
+          {
+            "word": "Hose",
+            "translation": "trousers"
+          },
+          {
+            "word": "Schuhe",
+            "translation": "shoes"
+          },
+          {
+            "word": "Hut",
+            "translation": "hat"
+          },
+          {
+            "word": "Kleid",
+            "translation": "dress"
+          },
+          {
+            "word": "Jacke",
+            "translation": "jacket"
+          },
+          {
+            "word": "Socken",
+            "translation": "socks"
+          },
+          {
+            "word": "Schal",
+            "translation": "scarf"
+          },
+          {
+            "word": "Brille",
+            "translation": "glasses"
+          },
+          {
+            "word": "Tasche",
+            "translation": "bag"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Animals",
+        "category": "nature",
+        "words": [
+          {
+            "word": "Hund",
+            "translation": "dog"
+          },
+          {
+            "word": "Katze",
+            "translation": "cat"
+          },
+          {
+            "word": "Vogel",
+            "translation": "bird"
+          },
+          {
+            "word": "Pferd",
+            "translation": "horse"
+          },
+          {
+            "word": "Kuh",
+            "translation": "cow"
+          },
+          {
+            "word": "Schaf",
+            "translation": "sheep"
+          },
+          {
+            "word": "Löwe",
+            "translation": "lion"
+          },
+          {
+            "word": "Elefant",
+            "translation": "elephant"
+          },
+          {
+            "word": "Kaninchen",
+            "translation": "rabbit"
+          },
+          {
+            "word": "Huhn",
+            "translation": "chicken"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Fruits",
+        "category": "food",
+        "words": [
+          {
+            "word": "Apfel",
+            "translation": "apple"
+          },
+          {
+            "word": "Banane",
+            "translation": "banana"
+          },
+          {
+            "word": "Orange",
+            "translation": "orange"
+          },
+          {
+            "word": "Trauben",
+            "translation": "grapes"
+          },
+          {
+            "word": "Mango",
+            "translation": "mango"
+          },
+          {
+            "word": "Zitrone",
+            "translation": "lemon"
+          },
+          {
+            "word": "Erdbeere",
+            "translation": "strawberry"
+          },
+          {
+            "word": "Wassermelone",
+            "translation": "watermelon"
+          },
+          {
+            "word": "Pfirsich",
+            "translation": "peach"
+          },
+          {
+            "word": "Birne",
+            "translation": "pear"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Kitchen & Ingredients",
+        "category": "food",
+        "words": [
+          {
+            "word": "Kartoffel",
+            "translation": "potato"
+          },
+          {
+            "word": "Zwiebel",
+            "translation": "onion"
+          },
+          {
+            "word": "Tomate",
+            "translation": "tomato"
+          },
+          {
+            "word": "Karotte",
+            "translation": "carrot"
+          },
+          {
+            "word": "Salz",
+            "translation": "salt"
+          },
+          {
+            "word": "Zucker",
+            "translation": "sugar"
+          },
+          {
+            "word": "Ei",
+            "translation": "egg"
+          },
+          {
+            "word": "Käse",
+            "translation": "cheese"
+          },
+          {
+            "word": "Butter",
+            "translation": "butter"
+          },
+          {
+            "word": "Öl",
+            "translation": "oil"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Travel",
+        "category": "travel",
+        "words": [
+          {
+            "word": "Fahrkarte",
+            "translation": "ticket"
+          },
+          {
+            "word": "Reisepass",
+            "translation": "passport"
+          },
+          {
+            "word": "Bus",
+            "translation": "bus"
+          },
+          {
+            "word": "Zug",
+            "translation": "train"
+          },
+          {
+            "word": "Taxi",
+            "translation": "taxi"
+          },
+          {
+            "word": "Hotel",
+            "translation": "hotel"
+          },
+          {
+            "word": "Karte",
+            "translation": "map"
+          },
+          {
+            "word": "Koffer",
+            "translation": "suitcase"
+          },
+          {
+            "word": "Auto",
+            "translation": "car"
+          },
+          {
+            "word": "Flugzeug",
+            "translation": "plane"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Directions",
+        "category": "travel",
+        "words": [
+          {
+            "word": "links",
+            "translation": "left"
+          },
+          {
+            "word": "rechts",
+            "translation": "right"
+          },
+          {
+            "word": "geradeaus",
+            "translation": "straight"
+          },
+          {
+            "word": "nah",
+            "translation": "near"
+          },
+          {
+            "word": "weit",
+            "translation": "far"
+          },
+          {
+            "word": "hier",
+            "translation": "here"
+          },
+          {
+            "word": "dort",
+            "translation": "there"
+          },
+          {
+            "word": "Norden",
+            "translation": "north"
+          },
+          {
+            "word": "Süden",
+            "translation": "south"
+          },
+          {
+            "word": "Osten",
+            "translation": "east"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Health & Emergency",
+        "category": "emergency",
+        "words": [
+          {
+            "word": "Arzt",
+            "translation": "doctor"
+          },
+          {
+            "word": "Medizin",
+            "translation": "medicine"
+          },
+          {
+            "word": "Schmerz",
+            "translation": "pain"
+          },
+          {
+            "word": "Fieber",
+            "translation": "fever"
+          },
+          {
+            "word": "Polizei",
+            "translation": "police"
+          },
+          {
+            "word": "Feuer",
+            "translation": "fire"
+          },
+          {
+            "word": "Hilfe",
+            "translation": "help"
+          },
+          {
+            "word": "Gefahr",
+            "translation": "danger"
+          },
+          {
+            "word": "Krankenwagen",
+            "translation": "ambulance"
+          },
+          {
+            "word": "krank",
+            "translation": "sick"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Shopping",
+        "category": "shopping",
+        "words": [
+          {
+            "word": "Preis",
+            "translation": "price"
+          },
+          {
+            "word": "billig",
+            "translation": "cheap"
+          },
+          {
+            "word": "teuer",
+            "translation": "expensive"
+          },
+          {
+            "word": "Geschäft",
+            "translation": "shop"
+          },
+          {
+            "word": "Markt",
+            "translation": "market"
+          },
+          {
+            "word": "kaufen",
+            "translation": "to buy"
+          },
+          {
+            "word": "verkaufen",
+            "translation": "to sell"
+          },
+          {
+            "word": "Bargeld",
+            "translation": "cash"
+          },
+          {
+            "word": "Größe",
+            "translation": "size"
+          },
+          {
+            "word": "Rabatt",
+            "translation": "discount"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Home & Furniture",
+        "category": "home",
+        "words": [
+          {
+            "word": "Zimmer",
+            "translation": "room"
+          },
+          {
+            "word": "Tür",
+            "translation": "door"
+          },
+          {
+            "word": "Fenster",
+            "translation": "window"
+          },
+          {
+            "word": "Tisch",
+            "translation": "table"
+          },
+          {
+            "word": "Stuhl",
+            "translation": "chair"
+          },
+          {
+            "word": "Bett",
+            "translation": "bed"
+          },
+          {
+            "word": "Küche",
+            "translation": "kitchen"
+          },
+          {
+            "word": "Badezimmer",
+            "translation": "bathroom"
+          },
+          {
+            "word": "Schlüssel",
+            "translation": "key"
+          },
+          {
+            "word": "Lampe",
+            "translation": "lamp"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Describing Things 1",
+        "category": "adjectives",
+        "words": [
+          {
+            "word": "groß",
+            "translation": "big"
+          },
+          {
+            "word": "klein",
+            "translation": "small"
+          },
+          {
+            "word": "neu",
+            "translation": "new"
+          },
+          {
+            "word": "alt",
+            "translation": "old"
+          },
+          {
+            "word": "gut",
+            "translation": "good"
+          },
+          {
+            "word": "schlecht",
+            "translation": "bad"
+          },
+          {
+            "word": "heiß",
+            "translation": "hot"
+          },
+          {
+            "word": "kalt",
+            "translation": "cold"
+          },
+          {
+            "word": "schnell",
+            "translation": "fast"
+          },
+          {
+            "word": "langsam",
+            "translation": "slow"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Describing Things 2",
+        "category": "adjectives",
+        "words": [
+          {
+            "word": "einfach",
+            "translation": "easy"
+          },
+          {
+            "word": "schwierig",
+            "translation": "difficult"
+          },
+          {
+            "word": "schön",
+            "translation": "beautiful"
+          },
+          {
+            "word": "hässlich",
+            "translation": "ugly"
+          },
+          {
+            "word": "sauber",
+            "translation": "clean"
+          },
+          {
+            "word": "schmutzig",
+            "translation": "dirty"
+          },
+          {
+            "word": "voll",
+            "translation": "full"
+          },
+          {
+            "word": "leer",
+            "translation": "empty"
+          },
+          {
+            "word": "schwer",
+            "translation": "heavy"
+          },
+          {
+            "word": "leicht",
+            "translation": "light (not heavy)"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Feelings",
+        "category": "feelings",
+        "words": [
+          {
+            "word": "wütend",
+            "translation": "angry"
+          },
+          {
+            "word": "müde",
+            "translation": "tired"
+          },
+          {
+            "word": "hungrig",
+            "translation": "hungry"
+          },
+          {
+            "word": "durstig",
+            "translation": "thirsty"
+          },
+          {
+            "word": "ängstlich",
+            "translation": "afraid"
+          },
+          {
+            "word": "überrascht",
+            "translation": "surprised"
+          },
+          {
+            "word": "ruhig",
+            "translation": "calm"
+          },
+          {
+            "word": "gelangweilt",
+            "translation": "bored"
+          },
+          {
+            "word": "aufgeregt",
+            "translation": "excited"
+          },
+          {
+            "word": "besorgt",
+            "translation": "worried"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Useful Verbs 1",
+        "category": "verbs",
+        "words": [
+          {
+            "word": "gehen",
+            "translation": "to go"
+          },
+          {
+            "word": "kommen",
+            "translation": "to come"
+          },
+          {
+            "word": "wollen",
+            "translation": "to want"
+          },
+          {
+            "word": "haben",
+            "translation": "to have"
+          },
+          {
+            "word": "wissen",
+            "translation": "to know"
+          },
+          {
+            "word": "geben",
+            "translation": "to give"
+          },
+          {
+            "word": "nehmen",
+            "translation": "to take"
+          },
+          {
+            "word": "öffnen",
+            "translation": "to open"
+          },
+          {
+            "word": "schließen",
+            "translation": "to close"
+          },
+          {
+            "word": "finden",
+            "translation": "to find"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Useful Verbs 2",
+        "category": "verbs",
+        "words": [
+          {
+            "word": "arbeiten",
+            "translation": "to work"
+          },
+          {
+            "word": "lernen",
+            "translation": "to learn"
+          },
+          {
+            "word": "lehren",
+            "translation": "to teach"
+          },
+          {
+            "word": "spielen",
+            "translation": "to play"
+          },
+          {
+            "word": "warten",
+            "translation": "to wait"
+          },
+          {
+            "word": "fragen",
+            "translation": "to ask"
+          },
+          {
+            "word": "antworten",
+            "translation": "to answer"
+          },
+          {
+            "word": "helfen",
+            "translation": "to help"
+          },
+          {
+            "word": "leben",
+            "translation": "to live"
+          },
+          {
+            "word": "lieben",
+            "translation": "to love"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Question Words",
+        "category": "grammar",
+        "words": [
+          {
+            "word": "wer",
+            "translation": "who"
+          },
+          {
+            "word": "was",
+            "translation": "what"
+          },
+          {
+            "word": "wo",
+            "translation": "where"
+          },
+          {
+            "word": "wann",
+            "translation": "when"
+          },
+          {
+            "word": "warum",
+            "translation": "why"
+          },
+          {
+            "word": "wie",
+            "translation": "how"
+          },
+          {
+            "word": "welche",
+            "translation": "which"
+          },
+          {
+            "word": "wie viel",
+            "translation": "how much"
+          },
+          {
+            "word": "ich",
+            "translation": "I"
+          },
+          {
+            "word": "du",
+            "translation": "you"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "title": "School & Study",
+        "category": "school",
+        "words": [
+          {
+            "word": "Lehrer",
+            "translation": "teacher"
+          },
+          {
+            "word": "Student",
+            "translation": "student"
+          },
+          {
+            "word": "Lektion",
+            "translation": "lesson"
+          },
+          {
+            "word": "Sprache",
+            "translation": "language"
+          },
+          {
+            "word": "Wort",
+            "translation": "word"
+          },
+          {
+            "word": "Frage",
+            "translation": "question"
+          },
+          {
+            "word": "Antwort",
+            "translation": "answer"
+          },
+          {
+            "word": "Stift",
+            "translation": "pen"
+          },
+          {
+            "word": "Prüfung",
+            "translation": "exam"
+          },
+          {
+            "word": "Hausaufgaben",
+            "translation": "homework"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "title": "Technology",
+        "category": "technology",
+        "words": [
+          {
+            "word": "Telefon",
+            "translation": "phone"
+          },
+          {
+            "word": "Computer",
+            "translation": "computer"
+          },
+          {
+            "word": "Internet",
+            "translation": "internet"
+          },
+          {
+            "word": "Nachricht",
+            "translation": "message"
+          },
+          {
+            "word": "E-Mail",
+            "translation": "email"
+          },
+          {
+            "word": "Passwort",
+            "translation": "password"
+          },
+          {
+            "word": "Bildschirm",
+            "translation": "screen"
+          },
+          {
+            "word": "Kamera",
+            "translation": "camera"
+          },
+          {
+            "word": "Musik",
+            "translation": "music"
+          },
+          {
+            "word": "Foto",
+            "translation": "photo"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "title": "Jobs",
+        "category": "jobs",
+        "words": [
+          {
+            "word": "Ingenieur",
+            "translation": "engineer"
+          },
+          {
+            "word": "Krankenschwester",
+            "translation": "nurse"
+          },
+          {
+            "word": "Fahrer",
+            "translation": "driver"
+          },
+          {
+            "word": "Bauer",
+            "translation": "farmer"
+          },
+          {
+            "word": "Anwalt",
+            "translation": "lawyer"
+          },
+          {
+            "word": "Koch",
+            "translation": "cook"
+          },
+          {
+            "word": "Künstler",
+            "translation": "artist"
+          },
+          {
+            "word": "Pilot",
+            "translation": "pilot"
+          },
+          {
+            "word": "Schneider",
+            "translation": "tailor"
+          },
+          {
+            "word": "Ladenbesitzer",
+            "translation": "shopkeeper"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Nature & Land",
+        "category": "nature",
+        "words": [
+          {
+            "word": "Wald",
+            "translation": "forest"
+          },
+          {
+            "word": "Wüste",
+            "translation": "desert"
+          },
+          {
+            "word": "See",
+            "translation": "lake"
+          },
+          {
+            "word": "Insel",
+            "translation": "island"
+          },
+          {
+            "word": "Garten",
+            "translation": "garden"
+          },
+          {
+            "word": "Dorf",
+            "translation": "village"
+          },
+          {
+            "word": "Bauernhof",
+            "translation": "farm"
+          },
+          {
+            "word": "Feld",
+            "translation": "field"
+          },
+          {
+            "word": "Hügel",
+            "translation": "hill"
+          },
+          {
+            "word": "Sand",
+            "translation": "sand"
+          }
+        ]
+      }
+    ]
+  },
+  "urdu": {
+    "lessons": [
+      {
+        "id": 1,
+        "title": "Basic Words 1",
+        "words": [
+          {
+            "word": "سلام",
+            "translation": "hello"
+          },
+          {
+            "word": "خدا حافظ",
+            "translation": "goodbye"
+          },
+          {
+            "word": "شکریہ",
+            "translation": "thank you"
+          },
+          {
+            "word": "براہ کرم",
+            "translation": "please"
+          },
+          {
+            "word": "ہاں",
+            "translation": "yes"
+          },
+          {
+            "word": "نہیں",
+            "translation": "no"
+          },
+          {
+            "word": "صبح بخیر",
+            "translation": "good morning"
+          },
+          {
+            "word": "شب بخیر",
+            "translation": "good night"
+          },
+          {
+            "word": "دوست",
+            "translation": "friend"
+          },
+          {
+            "word": "خاندان",
+            "translation": "family"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 2,
+        "title": "Basic Words 2",
+        "words": [
+          {
+            "word": "گھر",
+            "translation": "house"
+          },
+          {
+            "word": "پانی",
+            "translation": "water"
+          },
+          {
+            "word": "کھانا",
+            "translation": "food"
+          },
+          {
+            "word": "وقت",
+            "translation": "time"
+          },
+          {
+            "word": "دن",
+            "translation": "day"
+          },
+          {
+            "word": "رات",
+            "translation": "night"
+          },
+          {
+            "word": "سورج",
+            "translation": "sun"
+          },
+          {
+            "word": "چاند",
+            "translation": "moon"
+          },
+          {
+            "word": "کتاب",
+            "translation": "book"
+          },
+          {
+            "word": "سکول",
+            "translation": "school"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 3,
+        "title": "Basic Words 3",
+        "words": [
+          {
+            "word": "کام",
+            "translation": "work"
+          },
+          {
+            "word": "پیسہ",
+            "translation": "money"
+          },
+          {
+            "word": "شہر",
+            "translation": "city"
+          },
+          {
+            "word": "ملک",
+            "translation": "country"
+          },
+          {
+            "word": "دنیا",
+            "translation": "world"
+          },
+          {
+            "word": "زندگی",
+            "translation": "life"
+          },
+          {
+            "word": "محبت",
+            "translation": "love"
+          },
+          {
+            "word": "دل",
+            "translation": "heart"
+          },
+          {
+            "word": "خوش",
+            "translation": "happy"
+          },
+          {
+            "word": "اداس",
+            "translation": "sad"
+          }
+        ],
+        "category": "basics"
+      },
+      {
+        "id": 4,
+        "title": "Colors & Numbers",
+        "words": [
+          {
+            "word": "سرخ",
+            "translation": "red"
+          },
+          {
+            "word": "نیلا",
+            "translation": "blue"
+          },
+          {
+            "word": "سبز",
+            "translation": "green"
+          },
+          {
+            "word": "پیلا",
+            "translation": "yellow"
+          },
+          {
+            "word": "سفید",
+            "translation": "white"
+          },
+          {
+            "word": "کالا",
+            "translation": "black"
+          },
+          {
+            "word": "ایک",
+            "translation": "one"
+          },
+          {
+            "word": "دو",
+            "translation": "two"
+          },
+          {
+            "word": "تین",
+            "translation": "three"
+          },
+          {
+            "word": "چار",
+            "translation": "four"
+          }
+        ],
+        "category": "numbers"
+      },
+      {
+        "id": 5,
+        "title": "Actions",
+        "words": [
+          {
+            "word": "کھانا",
+            "translation": "to eat"
+          },
+          {
+            "word": "پینا",
+            "translation": "to drink"
+          },
+          {
+            "word": "سونا",
+            "translation": "to sleep"
+          },
+          {
+            "word": "بولنا",
+            "translation": "to speak"
+          },
+          {
+            "word": "چلنا",
+            "translation": "to walk"
+          },
+          {
+            "word": "دوڑنا",
+            "translation": "to run"
+          },
+          {
+            "word": "لکھنا",
+            "translation": "to write"
+          },
+          {
+            "word": "پڑھنا",
+            "translation": "to read"
+          },
+          {
+            "word": "سننا",
+            "translation": "to listen"
+          },
+          {
+            "word": "دیکھنا",
+            "translation": "to see"
+          }
+        ],
+        "category": "verbs"
+      },
+      {
+        "id": 6,
+        "title": "Places",
+        "words": [
+          {
+            "word": "دکان",
+            "translation": "store"
+          },
+          {
+            "word": "ہسپتال",
+            "translation": "hospital"
+          },
+          {
+            "word": "ہوائی اڈا",
+            "translation": "airport"
+          },
+          {
+            "word": "ریستوران",
+            "translation": "restaurant"
+          },
+          {
+            "word": "پارک",
+            "translation": "park"
+          },
+          {
+            "word": "ساحل",
+            "translation": "beach"
+          },
+          {
+            "word": "پہاڑ",
+            "translation": "mountain"
+          },
+          {
+            "word": "دریا",
+            "translation": "river"
+          },
+          {
+            "word": "گلی",
+            "translation": "street"
+          },
+          {
+            "word": "پل",
+            "translation": "bridge"
+          }
+        ],
+        "category": "places"
+      },
+      {
+        "id": 7,
+        "title": "Food & Drinks",
+        "words": [
+          {
+            "word": "روٹی",
+            "translation": "bread"
+          },
+          {
+            "word": "دودھ",
+            "translation": "milk"
+          },
+          {
+            "word": "گوشت",
+            "translation": "meat"
+          },
+          {
+            "word": "مچھلی",
+            "translation": "fish"
+          },
+          {
+            "word": "پھل",
+            "translation": "fruit"
+          },
+          {
+            "word": "سبزی",
+            "translation": "vegetable"
+          },
+          {
+            "word": "چاول",
+            "translation": "rice"
+          },
+          {
+            "word": "کافی",
+            "translation": "coffee"
+          },
+          {
+            "word": "چائے",
+            "translation": "tea"
+          },
+          {
+            "word": "جوس",
+            "translation": "juice"
+          }
+        ],
+        "category": "food"
+      },
+      {
+        "id": 8,
+        "title": "Family",
+        "words": [
+          {
+            "word": "ماں",
+            "translation": "mother"
+          },
+          {
+            "word": "باپ",
+            "translation": "father"
+          },
+          {
+            "word": "بھائی",
+            "translation": "brother"
+          },
+          {
+            "word": "بہن",
+            "translation": "sister"
+          },
+          {
+            "word": "بیٹا",
+            "translation": "son"
+          },
+          {
+            "word": "بیٹی",
+            "translation": "daughter"
+          },
+          {
+            "word": "دادا",
+            "translation": "grandfather"
+          },
+          {
+            "word": "دادی",
+            "translation": "grandmother"
+          },
+          {
+            "word": "چچا",
+            "translation": "uncle"
+          },
+          {
+            "word": "خالہ",
+            "translation": "aunt"
+          }
+        ],
+        "category": "family"
+      },
+      {
+        "id": 9,
+        "title": "Weather & Nature",
+        "words": [
+          {
+            "word": "بارش",
+            "translation": "rain"
+          },
+          {
+            "word": "برف",
+            "translation": "snow"
+          },
+          {
+            "word": "ہوا",
+            "translation": "wind"
+          },
+          {
+            "word": "بادل",
+            "translation": "cloud"
+          },
+          {
+            "word": "ستارہ",
+            "translation": "star"
+          },
+          {
+            "word": "درخت",
+            "translation": "tree"
+          },
+          {
+            "word": "پھول",
+            "translation": "flower"
+          },
+          {
+            "word": "سمندر",
+            "translation": "sea"
+          },
+          {
+            "word": "آسمان",
+            "translation": "sky"
+          },
+          {
+            "word": "زمین",
+            "translation": "earth"
+          }
+        ],
+        "category": "nature"
+      },
+      {
+        "id": 10,
+        "title": "Body Parts",
+        "words": [
+          {
+            "word": "سر",
+            "translation": "head"
+          },
+          {
+            "word": "ہاتھ",
+            "translation": "hand"
+          },
+          {
+            "word": "پاؤں",
+            "translation": "foot"
+          },
+          {
+            "word": "آنکھ",
+            "translation": "eye"
+          },
+          {
+            "word": "کان",
+            "translation": "ear"
+          },
+          {
+            "word": "ناک",
+            "translation": "nose"
+          },
+          {
+            "word": "منہ",
+            "translation": "mouth"
+          },
+          {
+            "word": "بازو",
+            "translation": "arm"
+          },
+          {
+            "word": "ٹانگ",
+            "translation": "leg"
+          },
+          {
+            "word": "انگلی",
+            "translation": "finger"
+          }
+        ],
+        "category": "body"
+      },
+      {
+        "id": 11,
+        "title": "More Numbers",
+        "category": "numbers",
+        "words": [
+          {
+            "word": "پانچ",
+            "translation": "five"
+          },
+          {
+            "word": "چھ",
+            "translation": "six"
+          },
+          {
+            "word": "سات",
+            "translation": "seven"
+          },
+          {
+            "word": "آٹھ",
+            "translation": "eight"
+          },
+          {
+            "word": "نو",
+            "translation": "nine"
+          },
+          {
+            "word": "دس",
+            "translation": "ten"
+          },
+          {
+            "word": "گیارہ",
+            "translation": "eleven"
+          },
+          {
+            "word": "بارہ",
+            "translation": "twelve"
+          },
+          {
+            "word": "بیس",
+            "translation": "twenty"
+          },
+          {
+            "word": "سو",
+            "translation": "hundred"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Days of the Week",
+        "category": "time",
+        "words": [
+          {
+            "word": "پیر",
+            "translation": "Monday"
+          },
+          {
+            "word": "منگل",
+            "translation": "Tuesday"
+          },
+          {
+            "word": "بدھ",
+            "translation": "Wednesday"
+          },
+          {
+            "word": "جمعرات",
+            "translation": "Thursday"
+          },
+          {
+            "word": "جمعہ",
+            "translation": "Friday"
+          },
+          {
+            "word": "ہفتہ",
+            "translation": "Saturday"
+          },
+          {
+            "word": "اتوار",
+            "translation": "Sunday"
+          },
+          {
+            "word": "آج",
+            "translation": "today"
+          },
+          {
+            "word": "چھٹی",
+            "translation": "holiday"
+          },
+          {
+            "word": "کیلنڈر",
+            "translation": "calendar"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Time",
+        "category": "time",
+        "words": [
+          {
+            "word": "ہفتہ",
+            "translation": "week"
+          },
+          {
+            "word": "مہینہ",
+            "translation": "month"
+          },
+          {
+            "word": "سال",
+            "translation": "year"
+          },
+          {
+            "word": "صبح",
+            "translation": "morning"
+          },
+          {
+            "word": "دوپہر",
+            "translation": "afternoon"
+          },
+          {
+            "word": "شام",
+            "translation": "evening"
+          },
+          {
+            "word": "اب",
+            "translation": "now"
+          },
+          {
+            "word": "جلد",
+            "translation": "soon"
+          },
+          {
+            "word": "ہمیشہ",
+            "translation": "always"
+          },
+          {
+            "word": "کبھی نہیں",
+            "translation": "never"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Clothes",
+        "category": "clothes",
+        "words": [
+          {
+            "word": "قمیض",
+            "translation": "shirt"
+          },
+          {
+            "word": "پتلون",
+            "translation": "trousers"
+          },
+          {
+            "word": "جوتے",
+            "translation": "shoes"
+          },
+          {
+            "word": "ٹوپی",
+            "translation": "hat"
+          },
+          {
+            "word": "لباس",
+            "translation": "dress"
+          },
+          {
+            "word": "جیکٹ",
+            "translation": "jacket"
+          },
+          {
+            "word": "جرابیں",
+            "translation": "socks"
+          },
+          {
+            "word": "مفلر",
+            "translation": "scarf"
+          },
+          {
+            "word": "عینک",
+            "translation": "glasses"
+          },
+          {
+            "word": "بیگ",
+            "translation": "bag"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Animals",
+        "category": "nature",
+        "words": [
+          {
+            "word": "کتا",
+            "translation": "dog"
+          },
+          {
+            "word": "بلی",
+            "translation": "cat"
+          },
+          {
+            "word": "پرندہ",
+            "translation": "bird"
+          },
+          {
+            "word": "گھوڑا",
+            "translation": "horse"
+          },
+          {
+            "word": "گائے",
+            "translation": "cow"
+          },
+          {
+            "word": "بھیڑ",
+            "translation": "sheep"
+          },
+          {
+            "word": "شیر",
+            "translation": "lion"
+          },
+          {
+            "word": "ہاتھی",
+            "translation": "elephant"
+          },
+          {
+            "word": "خرگوش",
+            "translation": "rabbit"
+          },
+          {
+            "word": "مرغی",
+            "translation": "chicken"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "Fruits",
+        "category": "food",
+        "words": [
+          {
+            "word": "سیب",
+            "translation": "apple"
+          },
+          {
+            "word": "کیلا",
+            "translation": "banana"
+          },
+          {
+            "word": "مالٹا",
+            "translation": "orange"
+          },
+          {
+            "word": "انگور",
+            "translation": "grapes"
+          },
+          {
+            "word": "آم",
+            "translation": "mango"
+          },
+          {
+            "word": "لیموں",
+            "translation": "lemon"
+          },
+          {
+            "word": "اسٹرابیری",
+            "translation": "strawberry"
+          },
+          {
+            "word": "تربوز",
+            "translation": "watermelon"
+          },
+          {
+            "word": "آڑو",
+            "translation": "peach"
+          },
+          {
+            "word": "ناشپاتی",
+            "translation": "pear"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Kitchen & Ingredients",
+        "category": "food",
+        "words": [
+          {
+            "word": "آلو",
+            "translation": "potato"
+          },
+          {
+            "word": "پیاز",
+            "translation": "onion"
+          },
+          {
+            "word": "ٹماٹر",
+            "translation": "tomato"
+          },
+          {
+            "word": "گاجر",
+            "translation": "carrot"
+          },
+          {
+            "word": "نمک",
+            "translation": "salt"
+          },
+          {
+            "word": "چینی",
+            "translation": "sugar"
+          },
+          {
+            "word": "انڈا",
+            "translation": "egg"
+          },
+          {
+            "word": "پنیر",
+            "translation": "cheese"
+          },
+          {
+            "word": "مکھن",
+            "translation": "butter"
+          },
+          {
+            "word": "تیل",
+            "translation": "oil"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "Travel",
+        "category": "travel",
+        "words": [
+          {
+            "word": "ٹکٹ",
+            "translation": "ticket"
+          },
+          {
+            "word": "پاسپورٹ",
+            "translation": "passport"
+          },
+          {
+            "word": "بس",
+            "translation": "bus"
+          },
+          {
+            "word": "ٹرین",
+            "translation": "train"
+          },
+          {
+            "word": "ٹیکسی",
+            "translation": "taxi"
+          },
+          {
+            "word": "ہوٹل",
+            "translation": "hotel"
+          },
+          {
+            "word": "نقشہ",
+            "translation": "map"
+          },
+          {
+            "word": "سوٹ کیس",
+            "translation": "suitcase"
+          },
+          {
+            "word": "گاڑی",
+            "translation": "car"
+          },
+          {
+            "word": "ہوائی جہاز",
+            "translation": "plane"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Directions",
+        "category": "travel",
+        "words": [
+          {
+            "word": "بائیں",
+            "translation": "left"
+          },
+          {
+            "word": "دائیں",
+            "translation": "right"
+          },
+          {
+            "word": "سیدھا",
+            "translation": "straight"
+          },
+          {
+            "word": "قریب",
+            "translation": "near"
+          },
+          {
+            "word": "دور",
+            "translation": "far"
+          },
+          {
+            "word": "یہاں",
+            "translation": "here"
+          },
+          {
+            "word": "وہاں",
+            "translation": "there"
+          },
+          {
+            "word": "شمال",
+            "translation": "north"
+          },
+          {
+            "word": "جنوب",
+            "translation": "south"
+          },
+          {
+            "word": "مشرق",
+            "translation": "east"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Health & Emergency",
+        "category": "emergency",
+        "words": [
+          {
+            "word": "ڈاکٹر",
+            "translation": "doctor"
+          },
+          {
+            "word": "دوا",
+            "translation": "medicine"
+          },
+          {
+            "word": "درد",
+            "translation": "pain"
+          },
+          {
+            "word": "بخار",
+            "translation": "fever"
+          },
+          {
+            "word": "پولیس",
+            "translation": "police"
+          },
+          {
+            "word": "آگ",
+            "translation": "fire"
+          },
+          {
+            "word": "مدد",
+            "translation": "help"
+          },
+          {
+            "word": "خطرہ",
+            "translation": "danger"
+          },
+          {
+            "word": "ایمبولینس",
+            "translation": "ambulance"
+          },
+          {
+            "word": "بیمار",
+            "translation": "sick"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "title": "Shopping",
+        "category": "shopping",
+        "words": [
+          {
+            "word": "قیمت",
+            "translation": "price"
+          },
+          {
+            "word": "سستا",
+            "translation": "cheap"
+          },
+          {
+            "word": "مہنگا",
+            "translation": "expensive"
+          },
+          {
+            "word": "دکان",
+            "translation": "shop"
+          },
+          {
+            "word": "بازار",
+            "translation": "market"
+          },
+          {
+            "word": "خریدنا",
+            "translation": "to buy"
+          },
+          {
+            "word": "بیچنا",
+            "translation": "to sell"
+          },
+          {
+            "word": "نقد",
+            "translation": "cash"
+          },
+          {
+            "word": "سائز",
+            "translation": "size"
+          },
+          {
+            "word": "رعایت",
+            "translation": "discount"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Home & Furniture",
+        "category": "home",
+        "words": [
+          {
+            "word": "کمرہ",
+            "translation": "room"
+          },
+          {
+            "word": "دروازہ",
+            "translation": "door"
+          },
+          {
+            "word": "کھڑکی",
+            "translation": "window"
+          },
+          {
+            "word": "میز",
+            "translation": "table"
+          },
+          {
+            "word": "کرسی",
+            "translation": "chair"
+          },
+          {
+            "word": "بستر",
+            "translation": "bed"
+          },
+          {
+            "word": "باورچی خانہ",
+            "translation": "kitchen"
+          },
+          {
+            "word": "غسل خانہ",
+            "translation": "bathroom"
+          },
+          {
+            "word": "چابی",
+            "translation": "key"
+          },
+          {
+            "word": "لیمپ",
+            "translation": "lamp"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Describing Things 1",
+        "category": "adjectives",
+        "words": [
+          {
+            "word": "بڑا",
+            "translation": "big"
+          },
+          {
+            "word": "چھوٹا",
+            "translation": "small"
+          },
+          {
+            "word": "نیا",
+            "translation": "new"
+          },
+          {
+            "word": "پرانا",
+            "translation": "old"
+          },
+          {
+            "word": "اچھا",
+            "translation": "good"
+          },
+          {
+            "word": "برا",
+            "translation": "bad"
+          },
+          {
+            "word": "گرم",
+            "translation": "hot"
+          },
+          {
+            "word": "ٹھنڈا",
+            "translation": "cold"
+          },
+          {
+            "word": "تیز",
+            "translation": "fast"
+          },
+          {
+            "word": "آہستہ",
+            "translation": "slow"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "Describing Things 2",
+        "category": "adjectives",
+        "words": [
+          {
+            "word": "آسان",
+            "translation": "easy"
+          },
+          {
+            "word": "مشکل",
+            "translation": "difficult"
+          },
+          {
+            "word": "خوبصورت",
+            "translation": "beautiful"
+          },
+          {
+            "word": "بدصورت",
+            "translation": "ugly"
+          },
+          {
+            "word": "صاف",
+            "translation": "clean"
+          },
+          {
+            "word": "گندا",
+            "translation": "dirty"
+          },
+          {
+            "word": "بھرا ہوا",
+            "translation": "full"
+          },
+          {
+            "word": "خالی",
+            "translation": "empty"
+          },
+          {
+            "word": "بھاری",
+            "translation": "heavy"
+          },
+          {
+            "word": "ہلکا",
+            "translation": "light (not heavy)"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Feelings",
+        "category": "feelings",
+        "words": [
+          {
+            "word": "غصے میں",
+            "translation": "angry"
+          },
+          {
+            "word": "تھکا ہوا",
+            "translation": "tired"
+          },
+          {
+            "word": "بھوکا",
+            "translation": "hungry"
+          },
+          {
+            "word": "پیاسا",
+            "translation": "thirsty"
+          },
+          {
+            "word": "ڈرا ہوا",
+            "translation": "afraid"
+          },
+          {
+            "word": "حیران",
+            "translation": "surprised"
+          },
+          {
+            "word": "پرسکون",
+            "translation": "calm"
+          },
+          {
+            "word": "اکتایا ہوا",
+            "translation": "bored"
+          },
+          {
+            "word": "پرجوش",
+            "translation": "excited"
+          },
+          {
+            "word": "پریشان",
+            "translation": "worried"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "title": "Useful Verbs 1",
+        "category": "verbs",
+        "words": [
+          {
+            "word": "جانا",
+            "translation": "to go"
+          },
+          {
+            "word": "آنا",
+            "translation": "to come"
+          },
+          {
+            "word": "چاہنا",
+            "translation": "to want"
+          },
+          {
+            "word": "رکھنا",
+            "translation": "to have"
+          },
+          {
+            "word": "جاننا",
+            "translation": "to know"
+          },
+          {
+            "word": "دینا",
+            "translation": "to give"
+          },
+          {
+            "word": "لینا",
+            "translation": "to take"
+          },
+          {
+            "word": "کھولنا",
+            "translation": "to open"
+          },
+          {
+            "word": "بند کرنا",
+            "translation": "to close"
+          },
+          {
+            "word": "ڈھونڈنا",
+            "translation": "to find"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "title": "Useful Verbs 2",
+        "category": "verbs",
+        "words": [
+          {
+            "word": "کام کرنا",
+            "translation": "to work"
+          },
+          {
+            "word": "سیکھنا",
+            "translation": "to learn"
+          },
+          {
+            "word": "سکھانا",
+            "translation": "to teach"
+          },
+          {
+            "word": "کھیلنا",
+            "translation": "to play"
+          },
+          {
+            "word": "انتظار کرنا",
+            "translation": "to wait"
+          },
+          {
+            "word": "پوچھنا",
+            "translation": "to ask"
+          },
+          {
+            "word": "جواب دینا",
+            "translation": "to answer"
+          },
+          {
+            "word": "مدد کرنا",
+            "translation": "to help"
+          },
+          {
+            "word": "رہنا",
+            "translation": "to live"
+          },
+          {
+            "word": "پیار کرنا",
+            "translation": "to love"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "title": "Question Words",
+        "category": "grammar",
+        "words": [
+          {
+            "word": "کون",
+            "translation": "who"
+          },
+          {
+            "word": "کیا",
+            "translation": "what"
+          },
+          {
+            "word": "کہاں",
+            "translation": "where"
+          },
+          {
+            "word": "کب",
+            "translation": "when"
+          },
+          {
+            "word": "کیوں",
+            "translation": "why"
+          },
+          {
+            "word": "کیسے",
+            "translation": "how"
+          },
+          {
+            "word": "کون سا",
+            "translation": "which"
+          },
+          {
+            "word": "کتنا",
+            "translation": "how much"
+          },
+          {
+            "word": "میں",
+            "translation": "I"
+          },
+          {
+            "word": "تم",
+            "translation": "you"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "title": "School & Study",
+        "category": "school",
+        "words": [
+          {
+            "word": "استاد",
+            "translation": "teacher"
+          },
+          {
+            "word": "طالب علم",
+            "translation": "student"
+          },
+          {
+            "word": "سبق",
+            "translation": "lesson"
+          },
+          {
+            "word": "زبان",
+            "translation": "language"
+          },
+          {
+            "word": "لفظ",
+            "translation": "word"
+          },
+          {
+            "word": "سوال",
+            "translation": "question"
+          },
+          {
+            "word": "جواب",
+            "translation": "answer"
+          },
+          {
+            "word": "قلم",
+            "translation": "pen"
+          },
+          {
+            "word": "امتحان",
+            "translation": "exam"
+          },
+          {
+            "word": "ہوم ورک",
+            "translation": "homework"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "title": "Technology",
+        "category": "technology",
+        "words": [
+          {
+            "word": "فون",
+            "translation": "phone"
+          },
+          {
+            "word": "کمپیوٹر",
+            "translation": "computer"
+          },
+          {
+            "word": "انٹرنیٹ",
+            "translation": "internet"
+          },
+          {
+            "word": "پیغام",
+            "translation": "message"
+          },
+          {
+            "word": "ای میل",
+            "translation": "email"
+          },
+          {
+            "word": "پاس ورڈ",
+            "translation": "password"
+          },
+          {
+            "word": "اسکرین",
+            "translation": "screen"
+          },
+          {
+            "word": "کیمرہ",
+            "translation": "camera"
+          },
+          {
+            "word": "موسیقی",
+            "translation": "music"
+          },
+          {
+            "word": "تصویر",
+            "translation": "photo"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "title": "Jobs",
+        "category": "jobs",
+        "words": [
+          {
+            "word": "انجینئر",
+            "translation": "engineer"
+          },
+          {
+            "word": "نرس",
+            "translation": "nurse"
+          },
+          {
+            "word": "ڈرائیور",
+            "translation": "driver"
+          },
+          {
+            "word": "کسان",
+            "translation": "farmer"
+          },
+          {
+            "word": "وکیل",
+            "translation": "lawyer"
+          },
+          {
+            "word": "باورچی",
+            "translation": "cook"
+          },
+          {
+            "word": "فنکار",
+            "translation": "artist"
+          },
+          {
+            "word": "پائلٹ",
+            "translation": "pilot"
+          },
+          {
+            "word": "درزی",
+            "translation": "tailor"
+          },
+          {
+            "word": "دکاندار",
+            "translation": "shopkeeper"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "title": "Nature & Land",
+        "category": "nature",
+        "words": [
+          {
+            "word": "جنگل",
+            "translation": "forest"
+          },
+          {
+            "word": "صحرا",
+            "translation": "desert"
+          },
+          {
+            "word": "جھیل",
+            "translation": "lake"
+          },
+          {
+            "word": "جزیرہ",
+            "translation": "island"
+          },
+          {
+            "word": "باغ",
+            "translation": "garden"
+          },
+          {
+            "word": "گاؤں",
+            "translation": "village"
+          },
+          {
+            "word": "فارم",
+            "translation": "farm"
+          },
+          {
+            "word": "میدان",
+            "translation": "field"
+          },
+          {
+            "word": "پہاڑی",
+            "translation": "hill"
+          },
+          {
+            "word": "ریت",
+            "translation": "sand"
+          }
+        ]
+      }
+    ]
+  }
+}
